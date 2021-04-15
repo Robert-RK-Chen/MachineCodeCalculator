@@ -1,5 +1,5 @@
 // MachineCode Calculator
-// MachineLenth resourse file
+// MachineLength resourse file
 
 // Copyright (c) Robert Chen.
 // Last Alter Time: 2020-03-22
@@ -7,10 +7,10 @@
 #include <iostream>
 #include <stack>
 #include <math.h>
-#include "Machinelenth.h"
+#include "MachineLength.h"
 using namespace std;
 
-void Machinelenth8()
+void MachineLength8()
 {
 	stack<int> Code;
 	int OCode[9] = { 0 };
@@ -150,7 +150,7 @@ void Machinelenth8()
 	system("Pause");
 }
 
-void Machinelenth16()
+void MachineLength16()
 {
 	stack<int> Code;
 	int OCode[17] = { 0 };
@@ -290,7 +290,7 @@ void Machinelenth16()
 	system("Pause");
 }
 
-void Machinelenth32()
+void MachineLength32()
 {
 	stack<int> Code;
 	int OCode[33] = { 0 };

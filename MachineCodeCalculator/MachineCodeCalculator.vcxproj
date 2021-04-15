@@ -139,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MachineLenth.cpp" />
+    <ClCompile Include="MachineLength.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MachineLenth.h" />
+    <ClInclude Include="MachineLength.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>

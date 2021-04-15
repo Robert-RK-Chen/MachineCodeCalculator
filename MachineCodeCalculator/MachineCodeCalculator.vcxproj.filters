@@ -18,12 +18,12 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="MachineLenth.cpp">
+    <ClCompile Include="MachineLength.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MachineLenth.h">
+    <ClInclude Include="MachineLength.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="resource.h">
